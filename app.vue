@@ -1,6 +1,6 @@
 <template>
   <div>
-    <HanziWriter />
+    <NuxtPage />
   </div>
 </template>
 
