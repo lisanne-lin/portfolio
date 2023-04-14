@@ -1,6 +1,11 @@
 <template>
-	<div id="x"></div>
-	<div id="x2"></div>
+		<h1 class="text-rose-300">home</h1>
+
+	<div class="flex flex-row">
+		<div id="x" ></div>
+		<div id="x2"></div>
+	</div>
+
 </template>
 
 <script setup>
