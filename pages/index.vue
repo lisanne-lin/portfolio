@@ -1,24 +1,26 @@
 <template>
-	<div class="flex h-screen">
+	<div class="flex lg:h-screen">
 		<div class="m-auto">
 			<div
-				class="lg:flex lg:container mx-auto text-slate-800 justify-center space-x-24"
+				class="container pt-16 p-4 mx-auto text-slate-800 justify-center md:space-x-24 lg:flex"
 			>
 				<div class="memoji grid justify-items-center">
 					<HanziWriter />
 					<img
-						class="max-w-xs"
+						class="max-w-[250px] md:max-w-xs mb-8"
 						src="@/assets/img/memoji.png"
 						alt=""
 					/>
 				</div>
-				<div class="max-w-4xl">
-					<h1 class="font-bold text-slate-800 text-5xl leading-tight">
+				<div class="max-w-4xl space-y-4">
+					<h1
+						class="font-bold text-slate-800 text-2xl md:text-5xl leading-tight"
+					>
 						Hi, I'm Lisanne Lin! <br />
 						A Software Engineer student from The Netherlands.
 					</h1>
 					<div class="text-slate-700 text-about-me max-w">
-						<p class="text-lg font-medium py-5">
+						<p class="tmd:text-lg font-medium py-5">
 							I like to explore different design concepts and
 							experiment with code to create unique and engaging
 							experiences for users.

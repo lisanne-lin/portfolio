@@ -1,5 +1,5 @@
 <template>
-	<div class="flex flex-row z-40">
+	<div class="flex flex-row z-40 absolute">
 		<div id="char1"></div>
 		<div id="char2"></div>
 	</div>
