@@ -27,10 +27,22 @@
 						</p>
 						<div class="text-slate-500 space-y-4 font-regular">
 							<p>
-								📚 Software Engineer @HvA // currently 2nd year
-								BA
+								📚 Software Engineer
+								<a
+									class="text-violet-400 hover:text-violet-600 transition duration-150 ease-in-out"
+									href="https://www.hva.nl/"
+									>@HvA</a
+								>
+								// currently 2nd year BA
 							</p>
-							<p>🎓 Graduate Web Designer @GLU</p>
+							<p>
+								🎓 Graduate Web Designer
+								<a
+									class="text-violet-400 hover:text-violet-600 transition duration-150 ease-in-out"
+									href="https://www.glu.nl/?gclid=Cj0KCQjwxYOiBhC9ARIsANiEIfZvXG4AMWtpkLv20c50PnU5u45OaHxbaYkpsChVJxCtEj3jzDFhu-kaAkkJEALw_wcB"
+									>@GLU</a
+								>
+							</p>
 							<p>🌏 Speaks Dutch, English and Chinese</p>
 							<p>
 								🌸 Likes to read, has somewhat of a green thumb
