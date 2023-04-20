@@ -4,7 +4,7 @@
 			<div
 				class="container pt-16 p-4 mx-auto text-slate-800 justify-center md:space-x-24 lg:flex"
 			>
-				<div class="memoji grid justify-items-center">
+				<div class="memoji grid justify-items-center relative">
 					<HanziWriter />
 					<img
 						class="max-w-[250px] md:max-w-xs mb-8"
@@ -14,7 +14,7 @@
 				</div>
 				<div class="max-w-4xl space-y-4">
 					<h1
-						class="font-bold text-slate-800 text-2xl md:text-5xl leading-tight"
+						class="font-bold text-slate-800 text-2xl lg:text-5xl md:text-4xl leading-tight"
 					>
 						Hi, I'm Lisanne Lin! <br />
 						A Software Engineer student from The Netherlands.
@@ -48,7 +48,7 @@
 								<span>
 									<a
 										class="hover:text-slate-800 ease-in duration-300"
-										href="https://nl.linkedin.com/in/lisanne-lin-b0089614b"
+										href="documents/cv_english_lisanne-lin.pdf"
 										>Resume</a
 									>
 								</span>

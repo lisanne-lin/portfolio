@@ -2,7 +2,7 @@
 title: SmartShip
 tags: [HTML, CSS, Vue.js, Spring, Java, MySQL]
 thumbnail: "smartship.png"
-preview_bg_color: "#E5F7FE"
+preview_bg_color: "linear-gradient(180deg, rgba(96, 165, 250, 0.12) 0%, rgba(14, 165, 233, 0.15) 47.92%, rgba(14, 165, 233, 0.2) 100%);"
 tag_color: "#7DD3FC"
 ---
 
