@@ -20,7 +20,7 @@ export default defineNuxtConfig({
 				{
 					hid: "image",
 					name: "image",
-					content: "/assets/image/og-image.png",
+					content: "/assets/img/og-image.png",
 				},
 				{
 					hid: "description",
