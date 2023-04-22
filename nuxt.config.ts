@@ -18,13 +18,13 @@ export default defineNuxtConfig({
 					content: "width=device-width, initial-scale=1",
 				},
 				{
-					hid: "og:image",
-					name: "og:image",
+					hid: "image",
+					name: "image",
 					content: "/assets/image/og-image.png",
 				},
 				{
-					hid: "og:description",
-					name: "og:description",
+					hid: "description",
+					name: "description",
 					content:
 						"Hi! My name is Lisanne Lin and welcome to my portfolio!",
 				},
