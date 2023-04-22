@@ -9,7 +9,10 @@ tag_color: "#FEF08A"
 
 <h1 style="text-align: center;">PostDuif </h1>
 
-<p style="font-size: 14px; text-align: center;"> Developing an open source web application that allows entrepreneurs to register their packages for delivery. </p>
+<div style ="font-size:14px; text-align:center;">
+<p> Developing an open source web application that allows entrepreneurs to register their packages for delivery. </p>
+<a style ="color:#94a3b8;" href ="https://github.com/lisanne-lin/postduif">View on GitHub</a>
+</div>
 
 ---
 
@@ -27,15 +30,23 @@ The idea was to focus on being an eco-friendly delivery services for small busin
 
 <h4>Business owners</h4>
 
-When they have their own accounts, they can register packages that are prepared for delivery and include information such as package weight, address, price and delivery fee.
+When they have their own account, they can register packages/orders that are prepared for delivery and include information such as package weight, address, price and delivery fee.
 
 <h4>Delivery person</h4>
 
-After packages are registered, they will be added to a list for the delivery person to view. From there, the delivery person can select an order they want to deliver and the status will change in the overview. Once the order is delivered, the delivery person must confirm this, and then the order will be removed from the overview
+After packages/orders are registered, they will be added to a list for the delivery person to view. From there, the delivery person can select an order they want to deliver and the status will change in the overview. Once the order is delivered, the delivery person must confirm this, and then the order will be removed from the overview
 
 <h4>Customers</h4>
 
-Customers can use the app to track their packages
+Customers can use the app to track their packages.
+
+<h3> My contribution </h3>
+I have done the most of the design of the web-app. To push myself out of the comfort zone, I decided to incorporate yellow, which is a color I typically don't like and is not a easy color to work with in the design. I paired it with green to create a more eco-friendly vibe, which turned out to be a good fit for the delivery service. Yellow symbolizes the speed, and green represents eco-friendliness.
+<br>ik
+
+Other than that I have made the delivery person panel. By using Leaflet.js I included a map with address of the destination. The panel displays the delivery status of every order, along with other informations such as address, customer name order number and date.
+
+<img src ="images/covers/postduif_delivery.png">
 
 <h3>What I have learned</h3>
 

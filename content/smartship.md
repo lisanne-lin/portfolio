@@ -29,6 +29,9 @@ Our team developed the SmartShip dashboard that offers a centralized location fo
 
 -   Managers can manage the accounts of operators by deleting their account, or assigning them to another ship
 
+<h3> My contribution </h3>
+I created the profile page for the project. It displays the user information, along with a notification component which displays 2 most recent notifications. It also features a todo list, where operators can add, delete and edit todos, as well as adding a date if needed.
+
 <img src= "images/covers/smartship_profile.png"/>
 
 <h3>What I have learned</h3>
