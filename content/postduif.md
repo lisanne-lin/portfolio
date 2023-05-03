@@ -42,7 +42,7 @@ Customers can use the app to track their packages.
 
 <h3> My contribution </h3>
 I have done the most of the design of the web-app. To push myself out of the comfort zone, I decided to incorporate yellow, which is a color I typically don't like and is not a easy color to work with in the design. I paired it with green to create a more eco-friendly vibe, which turned out to be a good fit for the delivery service. Yellow symbolizes the speed, and green represents eco-friendliness.
-<br>ik
+<br>
 
 Other than that I have made the delivery person panel. By using Leaflet.js I included a map with address of the destination. The panel displays the delivery status of every order, along with other informations such as address, customer name order number and date.
 

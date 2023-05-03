@@ -26,4 +26,4 @@ The app needs:
 -   Retrieve data from server, such as importing calibration certificates from the scales used for weighing
 -   Calculate gravity and elevation difference based on location
 
-This app will be made into an Android app, made with Kotlin and FireBase. Further requirements on technology will be researched and updated later.
+This app will be made into an Android app, made with Kotlin and FireBase. Further requirements on technology will be researched and updated later. Stay tuned!
