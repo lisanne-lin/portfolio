@@ -33,15 +33,15 @@
 									href="https://www.hva.nl/"
 									>@HvA</a
 								>
-								// currently 2nd year BA
+								// 3rd year
 							</p>
 							<p>
-								🎓 Graduate Web Designer
+								💻 Software Engineer Intern
 								<a
 									class="text-violet-400 hover:text-violet-600 transition duration-150 ease-in-out"
-									href="https://www.glu.nl/?gclid=Cj0KCQjwxYOiBhC9ARIsANiEIfZvXG4AMWtpkLv20c50PnU5u45OaHxbaYkpsChVJxCtEj3jzDFhu-kaAkkJEALw_wcB"
-									>@GLU</a
-								>
+									href="https://www.accenture.com/nl-en"
+									>@Accenture</a>
+                // 2023 - present
 							</p>
 							<p>🌏 Speaks Dutch, English and Chinese</p>
 							<p>
