@@ -33,7 +33,7 @@
 									href="https://www.hva.nl/"
 									>@HvA</a
 								>
-								// 3rd year
+								// 4th year
 							</p>
 							<p>
 								💻 Software Engineer Intern
@@ -41,11 +41,11 @@
 									class="text-violet-400 hover:text-violet-600 transition duration-150 ease-in-out"
 									href="https://www.accenture.com/nl-en"
 									>@Accenture</a>
-                // 2023 - present
+                // 2023 - 2024
 							</p>
 							<p>🌏 Speaks Dutch, English and Chinese</p>
 							<p>
-								🌸 Likes to read, has somewhat of a green thumb
+								🌸 Likes to read and drinking matcha
 							</p>
 							<div
 								class="links font-semibold text-slate-500 underline space-x-8 mt-40"
